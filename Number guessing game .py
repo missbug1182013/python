@@ -25,4 +25,4 @@ while attempts > 0:
     print()
 
 if attempts == 0:
-    print("GAME OVER! The secret number was", secret)
+    print("GAME OVERRRRRRRRR! The secret number was", secret)
