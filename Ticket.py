@@ -9,7 +9,7 @@ print(f"This parking ticket costs {ticket_price} units.")
 print("Accepted coins: 1, 5, 10, 25\n")
  
 total_inserted = 0
-coins_inserted = 0
+coins_inserted = 0 
  
 
 while True:
