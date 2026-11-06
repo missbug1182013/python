@@ -26,7 +26,6 @@ print("4. Division")
 choice = int(input("Enter a number (1-4): "))
 
 if choice in [1, 2, 3, 4]:
-  # Collect two numbers properly and convert them to floats
   num1 = float(input("Enter the first number: "))
   num2 = float(input("Enter the second number: "))
 
