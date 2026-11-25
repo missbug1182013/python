@@ -9,7 +9,7 @@ print("Items In Stock: ", in_stock_items)
 
 chosen_item = input("Which item do you want to buy?")
 
-if chosen_item not in inventory or inventory[chosen_item] == 0:
+if chosen_item not in inventory or inventory[chosen_item] == 0: 
     print(chosen_item,"is out of stock! Stopping the checker.")
     exit()
 
