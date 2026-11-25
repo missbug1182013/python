@@ -1,3 +1,3 @@
-numbers = [1,2,3,4,5]
-doubled = map(lambda x:x * 2, numbers)
-print(numbers)
+students_name = {"Rumaysa":95,"Musfirah":89,"Hamna":67,"Afreenish":73,"Mahnoor":58}
+for i in students_name.values:
+    score = 
